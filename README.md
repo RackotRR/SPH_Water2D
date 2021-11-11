@@ -6,4 +6,4 @@ My own implementation of nearest neighbouring particles search - grid find - has
 
 Here is interpretation of the SPH program output:
 
-![Alt Text](https://gifyu.com/image/S22gn) 
+![SPHWater2D](SPHWater2D.gif) 
